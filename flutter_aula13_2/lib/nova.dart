@@ -1,8 +1,8 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:flutter_aula13_2apagar/dados.dart';
-import 'package:flutter_aula13_2apagar/dados_json.dart';
+import 'package:flutter_aula13_2/dados.dart';
+import 'package:flutter_aula13_2/dados_json.dart';
 
 class Nova extends StatefulWidget {
   const Nova({super.key});
